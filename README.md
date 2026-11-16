@@ -10,66 +10,77 @@
   </a>
 </p>
 
-# 👋 Welcome! I'm Phehello Mokgosi
+# 👋 Hi, I'm Phehello Mokgosi
 
-## ⚖️ Candidate Legal Practitioner | 💻 Full Stack Developer
+## ⚖️ Candidate Legal Practitioner | 💻 Full Stack Developer | ☁️ SaaS Builder
 
-Welcome to my GitHub!
+I'm passionate about building software that solves real-world problems through technology, automation, and modern cloud development.
 
-I'm passionate about combining **law** and **technology** to build solutions that make organizations more efficient.
+My unique background in **Law** and **Software Engineering** enables me to develop practical digital solutions for legal professionals, businesses, churches, and organizations.
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokgosiphehello-arch&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokgosiphehello-arch&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mokgosiphehello-arch&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mokgosiphehello-arch&theme=tokyo-night" />
-</p>
-
-### 🚀 Currently Building
-
-- ☁️ LCBM Cloud - Enterprise Church Management Platform
-- ⚖️ Legal Technology Solutions
-- 🤖 AI-powered Automation Tools
+🚀 **Currently Building:** LCBM Cloud – Enterprise Church & Campus Management Platform
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Current Focus
+
+- 🚀 Completing LCBM Cloud v1
+- ☁️ Microsoft Azure
+- ☁️ AWS Cloud Practitioner
+- 🤖 AI Automation
+- 🌍 Preparing for an International Remote Software Engineering Career
+
+---
+
+# 💻 Tech Stack
 
 ### Backend
+
 - NestJS
-- TypeScript
 - Node.js
+- TypeScript
 - Prisma ORM
 - PostgreSQL
 
 ### Frontend
+
 - React
 - Next.js
 - Tailwind CSS
 
-### Tools
+### DevOps
+
+- Docker
 - Git
 - GitHub
-- Docker
 - VS Code
 - Postman
 
+### Cloud
+
+- Microsoft Azure
+- AWS
+
 ---
+
+# 🚀 Featured Project
+
+## LCBM Cloud
+
+A multi-tenant Church & Campus Business Management Platform designed to simplify administration, accounting, reporting, and member management.
+
+### Features
+
+- Multi-tenancy
+- Authentication & RBAC
+- Church & Branch Management
+- Enterprise Accounting
+- Financial Reports (PDF & Excel)
+- Dashboard & Analytics
+
+**Tech Stack**
+
+NestJS • React • TypeScript • Prisma • PostgreSQL
 
 ## 🌱 Currently Learning
 
@@ -88,8 +99,19 @@ I'm passionate about combining **law** and **technology** to build solutions tha
 - Secure an international remote software engineering role
 
 ---
+# 🎯 2027 Goals
 
-## 📫 Connect With Me
+- ✅ Launch LCBM Cloud
+- ☐ Microsoft Azure Certified
+- ☐ AWS Certified
+- ☐ Build AI-powered Legal Tools
+- ☐ Secure an International Remote Software Engineering Position
+
+---
+
+# 📫 Let's Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/phehello-mokgosi-985479166
-- 📧 Email: mokgosiphehello@gmail.com
+- 📧 phehello.mokgosi@gmail.com
+- 🌍 South Africa
+## 📫 Connect With Me
