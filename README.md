@@ -10,7 +10,7 @@
   </a>
 </p>
 
-# Hi there, I'm Phehello Mokgosi 👋
+# 👋 Welcome! I'm Phehello Mokgosi
 
 ## ⚖️ Candidate Legal Practitioner | 💻 Full Stack Developer
 
