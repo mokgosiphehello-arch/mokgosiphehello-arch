@@ -57,5 +57,5 @@ I'm passionate about combining **law** and **technology** to build solutions tha
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile)*
-- 📧 Email: *(Add your professional email)*
+- 💼 LinkedIn: www.linkedin.com/in/phehello-mokgosi-985479166
+- 📧 Email: mokgosiphehello@gmail.com
