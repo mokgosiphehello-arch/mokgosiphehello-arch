@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Phehello+Mokgosi;Candidate+Legal+Practitioner;Full+Stack+Developer;Creator+of+LCBM+Cloud;Building+Legal+Technology+%26+AI" alt="Typing SVG" />
+</p>
 # Hi there, I'm Phehello Mokgosi 👋
 
 ## ⚖️ Candidate Legal Practitioner | 💻 Full Stack Developer
