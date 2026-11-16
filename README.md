@@ -4,6 +4,11 @@
 
 <br>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Candidate+Legal+Practitioner;Full+Stack+Developer;Creator+of+LCBM+Cloud;Legal+Technology+Innovator;Building+Enterprise+SaaS+Solutions;Open+to+Remote+Software+Opportunities" alt="Typing SVG" />
+  </a>
+</p>
 
 # Hi there, I'm Phehello Mokgosi 👋
 
