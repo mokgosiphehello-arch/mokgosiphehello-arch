@@ -29,10 +29,10 @@ I'm passionate about combining **law** and **technology** to build solutions tha
   <img src="https://streak-stats.demolab.com?user=mokgosiphehello-arch&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Achievements
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mokgosiphehello-arch&theme=algolia&no-frame=true&row=1&column=6" />
+<img src="https://streak-stats.demolab.com?user=mokgosiphehello-arch&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📈 Contribution Graph
