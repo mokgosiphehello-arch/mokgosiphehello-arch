@@ -29,6 +29,18 @@ I'm passionate about combining **law** and **technology** to build solutions tha
   <img src="https://streak-stats.demolab.com?user=mokgosiphehello-arch&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mokgosiphehello-arch&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mokgosiphehello-arch&theme=tokyo-night" />
+</p>
+
 ### 🚀 Currently Building
 
 - ☁️ LCBM Cloud - Enterprise Church Management Platform
