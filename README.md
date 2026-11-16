@@ -9,6 +9,13 @@ Welcome to my GitHub!
 
 I'm passionate about combining **law** and **technology** to build solutions that make organizations more efficient.
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mokgosiphehello-arch&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokgosiphehello-arch&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ### 🚀 Currently Building
 
 - ☁️ LCBM Cloud - Enterprise Church Management Platform
