@@ -32,7 +32,7 @@ I'm passionate about combining **law** and **technology** to build solutions tha
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mokgosiphehello-arch&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=mokgosiphehello-arch&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ## 📈 Contribution Graph
