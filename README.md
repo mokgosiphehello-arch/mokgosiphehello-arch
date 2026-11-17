@@ -108,4 +108,4 @@ GitHub:
 https://github.com/mokgosiphehello-arch
 
 Email:
-phehello.mokgosi@gmail.com
+mokgosiphehello@gmail.com
