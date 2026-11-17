@@ -10,15 +10,23 @@
   </a>
 </p>
 
-# 👋 Hi, I'm Phehello Mokgosi
+# 👋 Welcome! I'm Phehello Mokgosi
 
-## ⚖️ Candidate Legal Practitioner | 💻 Full Stack Developer | ☁️ SaaS Builder
+⚖️ Candidate Legal Practitioner | 💻 Full Stack Developer | ☁️ Cloud & AI Enthusiast
 
-I'm passionate about building software that solves real-world problems through technology, automation, and modern cloud development.
+I'm passionate about building software that solves real-world business problems.
 
-My unique background in **Law** and **Software Engineering** enables me to develop practical digital solutions for legal professionals, businesses, churches, and organizations.
+My unique background in **law** and **software engineering** allows me to create secure, scalable enterprise applications where technology meets legal compliance.
 
-🚀 **Currently Building:** LCBM Cloud – Enterprise Church & Campus Management Platform
+Currently building **LCBM Cloud** — a multi-tenant SaaS platform for churches and organizations featuring:
+
+- Multi-Tenant Architecture
+- Enterprise Accounting
+- Financial Reporting
+- Role-Based Security (RBAC)
+- AI-ready Architecture
+
+📍 South Africa
 
 ---
 
@@ -32,86 +40,72 @@ My unique background in **Law** and **Software Engineering** enables me to devel
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Tech Stack
 
 ### Backend
-
-- NestJS
-- Node.js
-- TypeScript
-- Prisma ORM
-- PostgreSQL
+NestJS • Node.js • TypeScript • Prisma • PostgreSQL
 
 ### Frontend
-
-- React
-- Next.js
-- Tailwind CSS
-
-### DevOps
-
-- Docker
-- Git
-- GitHub
-- VS Code
-- Postman
+React • Next.js • TailwindCSS
 
 ### Cloud
+Azure • AWS • Docker
 
-- Microsoft Azure
-- AWS
-
----
-
+### DevOps
+Git • GitHub • VS Code • Postman
 # 🚀 Featured Project
 
-## LCBM Cloud
+## 🚀 Featured Project
 
-A multi-tenant Church & Campus Business Management Platform designed to simplify administration, accounting, reporting, and member management.
+### LCBM Cloud
+
+A multi-tenant Church & Campus Business Management Platform built from the ground up.
 
 ### Features
 
-- Multi-tenancy
-- Authentication & RBAC
-- Church & Branch Management
+- Multi-Tenant SaaS
+- RBAC Security
+- Church Management
+- Member Management
 - Enterprise Accounting
-- Financial Reports (PDF & Excel)
-- Dashboard & Analytics
+- General Ledger
+- Trial Balance
+- Income Statement
+- Balance Sheet
+- Cash Flow
+- PDF & Excel Reports
+- Analytics Dashboard
 
-**Tech Stack**
+**Tech**
 
-NestJS • React • TypeScript • Prisma • PostgreSQL
+NestJS • Prisma • PostgreSQL • React • Next.js • Tailwind
 
-## 🌱 Currently Learning
+## 🎯 2027 Goals
 
-- Azure
+- Launch LCBM Cloud
+- Become Azure Certified
+- Become AWS Certified
+- Build AI Legal Software
+- Secure an International Remote Role
+
+---
+
+## 📚 Currently Learning
+
+- Microsoft Azure
 - AWS
-- Advanced System Design
-- AI for Legal Technology
+- AI Automation
+- Enterprise System Design
+- Docker
 
 ---
+## 🤝 Connect With Me
 
-## 🎯 Career Goals
+LinkedIn:
+https://linkedin.com/in/phehellomokgosi
 
-- Build enterprise SaaS applications
-- Develop legal technology solutions
-- Contribute to open-source projects
-- Secure an international remote software engineering role
+GitHub:
+https://github.com/mokgosiphehello-arch
 
----
-# 🎯 2027 Goals
-
-- ✅ Launch LCBM Cloud
-- ☐ Microsoft Azure Certified
-- ☐ AWS Certified
-- ☐ Build AI-powered Legal Tools
-- ☐ Secure an International Remote Software Engineering Position
-
----
-
-# 📫 Let's Connect
-
-- 💼 LinkedIn: www.linkedin.com/in/phehello-mokgosi-985479166
-- 📧 phehello.mokgosi@gmail.com
-- 🌍 South Africa
-## 📫 Connect With Me
+Email:
+phehello.mokgosi@gmail.com
