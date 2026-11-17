@@ -13,12 +13,21 @@
 # 👋 Welcome! I'm Phehello Mokgosi
 
 ⚖️ Candidate Legal Practitioner | 💻 Full Stack Developer | ☁️ Cloud & AI Enthusiast
+<p align="left">
 
-I'm passionate about building software that solves real-world business problems.
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Work-success?style=for-the-badge" />
 
-My unique background in **law** and **software engineering** allows me to create secure, scalable enterprise applications where technology meets legal compliance.
+<img src="https://img.shields.io/badge/Location-South%20Africa-blue?style=for-the-badge" />
 
-Currently building **LCBM Cloud** — a multi-tenant SaaS platform for churches and organizations featuring:
+<img src="https://img.shields.io/badge/Building-LCBM%20Cloud-2563EB?style=for-the-badge" />
+
+</p>
+
+I build secure, scalable software that solves real-world operational and financial challenges.
+
+My background in law and software engineering gives me a unique perspective when designing enterprise applications where technology, compliance, and business processes intersect.
+
+I'm currently developing **LCBM Cloud**, an enterprise SaaS platform that streamlines finance, membership, reporting, and administration for churches and organizations.
 
 - Multi-Tenant Architecture
 - Enterprise Accounting
@@ -53,7 +62,6 @@ Azure • AWS • Docker
 
 ### DevOps
 Git • GitHub • VS Code • Postman
-# 🚀 Featured Project
 
 ## 🚀 Featured Project
 
@@ -61,20 +69,24 @@ Git • GitHub • VS Code • Postman
 
 A multi-tenant Church & Campus Business Management Platform built from the ground up.
 
-### Features
+| Feature | Status |
+|---------|--------|
+| Multi-Tenant SaaS | ✅ |
+| Member Management | ✅ |
+| RBAC Security | ✅ |
+| Enterprise Accounting | ✅ |
+| Financial Reports | ✅ |
+| Dashboard Analytics | ✅ |
+| AI Ready | 🚧 |
 
-- Multi-Tenant SaaS
-- RBAC Security
-- Church Management
-- Member Management
-- Enterprise Accounting
-- General Ledger
-- Trial Balance
-- Income Statement
-- Balance Sheet
-- Cash Flow
-- PDF & Excel Reports
-- Analytics Dashboard
+# 💼 Open to Opportunities
+
+Candidate Legal Practitioner
+Full Stack Developer
+Building LCBM Cloud
+Legal Technology Innovator
+Enterprise SaaS Engineer
+Cloud & AI Enthusiast 
 
 **Tech**
 
@@ -101,11 +113,17 @@ NestJS • Prisma • PostgreSQL • React • Next.js • Tailwind
 ---
 ## 🤝 Connect With Me
 
-LinkedIn:
-https://linkedin.com/in/phehellomokgosi
+<p align="center">
 
-GitHub:
-https://github.com/mokgosiphehello-arch
+<a href="https://linkedin.com/in/phehellomokgosi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Email:
-mokgosiphehello@gmail.com
+<a href="mailto:mokgosiphehello@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+
+> "Using technology to solve practical business and legal challenges."
